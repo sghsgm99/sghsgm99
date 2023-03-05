@@ -1,0 +1,44 @@
+-payoneer
+info@adecor.com
+
+adam@adecor.com
+
+https://app.tooljet.com/
+sghsgm99@gmail/sghsgm915~
+
+https://app.stationdb.com/table/Actions
+sghsgm99@gmail/sghsgm915~
+198.71.61.205
+Ontime_db
+d6d64c4.online-server.cloud
+Ontime_user / Gsni43(3ng@masdfg#n
+
+https://tooljet-piehh.ondigitalocean.app/
+
+https://tooljet-2-qoykm.ondigitalocean.app/
+sghsgm99@gmail/sghsgm915~
+
+https://cloud.adecor.com/CWlb6Y
+https://cloud.adecor.com/i2gPML
+https://cloud.adecor.com/SL0DQk
+
+https://app.slack.com/client/T02QA00QM
+adecor.slack.com
+
+-sendgrid api key
+ssh -i dns.pem ubuntu@52.15.88.61
+
+
+TOOLJET_HOST=http://52.15.88.61
+LOCKBOX_MASTER_KEY=66b605baf57ff68c81eabc036fd39aa14df4f9f3106255369139cea5a0832bf0
+SECRET_KEY_BASE=451dfe04790f52bac6cb3bb00920015e0e45e270376dd9bb0145c57a1e8207acec7b0451b4ea3f497504989f9b42d368b42a24a2ad63efa9a591904e55c9f712
+PG_USER=Ontime_user
+PG_HOST=198.71.61.205
+PG_PASS=Gsni43(3ng@masdfg#n
+PG_DB=Ontime_db
+ORM_LOGGING=true
+
+
+-budibase
+https://account.budibase.app/auth/login
+sghsgm99@gmail.com / sghsgm915~ (k1gr6j71opb)
