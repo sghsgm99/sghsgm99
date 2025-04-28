@@ -36,6 +36,18 @@ I'm a **full-stack developer** with 10 years of experience in crafting innovativ
 
 ---
 
+## 📈 **Contribution Graph**
+
+<p align="center">
+  <a href="https://github.com/sghsgm99/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sghsgm99&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
+
+<a href="https://app.daily.dev/sghsgm99"><img src="https://api.daily.dev/devcards/v2/y1EfZ7kpLsBYdfEl0EIuP.png?type=wide&r=qn7" width="652"/></a>
+
+---
+
 ## 🎯 **Stats at a Glance**
 
 - 🌟 **Followers**: ![Followers](https://img.shields.io/github/followers/sghsgm99?style=social)
