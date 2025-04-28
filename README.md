@@ -1,41 +1,48 @@
-# 🌟 Full-Stack Developer Portfolio
+# 🚀 **Hi, I'm a Passionate Full-Stack Developer 👋**
 
-Welcome to my GitHub! I'm an experienced Full-Stack Developer with 10 years in the IT industry, specializing in building and updating responsive websites. Here's a glimpse into my expertise and the technologies I master.
+![](https://komarev.com/ghpvc/?username=sghsgm99&color=blue&label=PROFILE+VIEWS) 
+[![github](https://img.shields.io/github/followers/sghsgm99?logo=github&style=plastic)](https://github.com/yourusername?tab=followers)
 
-## 🛠️ Technical Skills
-
-### Frontend Development
-- **JavaScript Frameworks:** React.js, Vue.js, Angular, Next.js, Nuxt.js
-- **UI Libraries and Tools:** Tailwind CSS, Bootstrap, Material-UI
-
-### Backend Development
-- **Node.js Ecosystem:** Express.js, Typescript.js, Gatsby.js
-- **Server-Side Languages:** PHP, Python, ASP.NET, C#
-- **Frameworks:** Laravel, WordPress, Shopify
-
-### Database Technologies
-- **SQL Databases:** MySQL, PostgreSQL, MSSQL
-- **NoSQL Databases:** MongoDB
-
-### API & System Integration
-- Strong experience with RESTful services, GraphQL, Apollo
-- Integrations: Google Ads API, OAuth2, OpenAI, ChatGPT
-
-### DevOps & Cloud Services
-- **Cloud Providers:** AWS, GCP, Digital Ocean, Vercel
-- **Automation & Deployment:** Web Scraping, Puppeteer, PM2, Nginx
-
-## 🛡️ Version Control & Collaboration
-- Active use of Git and GitHub for version control
-- Skilled in CI/CD pipelines and agile methodologies
-
-## 🌐 Let's Connect
-I'm ready to start work immediately and excited to connect with new opportunities. If you have a project or collaboration in mind, feel free to reach out!
+I'm a **full-stack developer** with 10 years of experience in crafting innovative, scalable, and user-friendly applications. Always exploring, learning, and building. 🌟
 
 ---
 
-Best Regards
+## 📊 **GitHub Overview**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sghsgm99&theme=radical" alt="GitHub Streak" height="165px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sghsgm99&theme=radical" alt="Profile Summary" />
+</p>
 
 ---
 
-> *Bringing ideas to life, one line of code at a time.*
+## 🏆 **Achievements**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sghsgm99&theme=radical&no-frame=true&column=6" alt="GitHub Achievements" />
+</p>
+
+---
+
+## 🚀 **Languages & Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,vue,angular,php,python,csharp,mysql,postgres,mongodb,aws,gcp,tailwind" alt="Skills" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sghsgm99&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🎯 **Stats at a Glance**
+
+- 🌟 **Followers**: ![Followers](https://img.shields.io/github/followers/sghsgm99?style=social)
+- ⭐ **Total Stars**: ![Total Stars](https://img.shields.io/github/stars/sghsgm99?style=social)
+
+---
+
+## 💬 **Let's Collaborate**
+
+I'm always excited to work on **open-source projects**, explore innovative ideas, and learn from fellow developers. Let's connect and build something impactful together! 🚀
