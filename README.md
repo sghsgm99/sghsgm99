@@ -27,7 +27,7 @@ I'm a **full-stack developer** with 10 years of experience in crafting innovativ
 ## 🚀 **Languages & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,vue,angular,php,python,csharp,mysql,postgres,mongodb,aws,gcp,tailwind" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,vue,angular,php,python,cs,mysql,postgres,mongodb,aws,gcp,tailwind,bootstrap,gastby,ai" alt="Skills" />
 </p>
 
 <p align="center">
